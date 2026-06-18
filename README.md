@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>আমার ব্যক্তিগত ওয়েবসাইট</title>
     <style>
-        /* এখানে ওয়েবসাইটের ডিজাইন বা CSS দেওয়া হয়েছে */
+        /* এখানে ব্যাকগ্রাউন্ড ছবি (তোর আপলোড করা bg.jpg অটোমেটিক পাবে */
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: 
