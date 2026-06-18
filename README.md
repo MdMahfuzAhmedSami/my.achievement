@@ -8,7 +8,7 @@
         /* এখানে ওয়েবসাইটের ডিজাইন বা CSS দেওয়া হয়েছে */
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: f/UUD77UoOuMy.jpg)
+            background-color: #f4f7f6;
             margin: 0;
             padding: 0;
             display: flex;
@@ -67,3 +67,22 @@
 
 </body>
 </html>
+
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+
+        /* ব্যাকগ্রাউন্ড ছবি সেট করার কোড */
+        background-image: url[('https://images.unsplash.com/photo-1557683316-973673baf926')](https://cdn.corenexis.com/f/UUD77UoOuMy.jpg); 
+        background-size: cover;       
+        background-position: center;   
+        background-repeat: no-repeat;  
+        background-attachment: fixed;  /* স্ক্রল করলেও ব্যাকগ্রাউন্ড নড়বে না */
+    }
+</style>
