@@ -8,7 +8,7 @@
         /* এখানে ওয়েবসাইটের ডিজাইন বা CSS দেওয়া হয়েছে */
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: [#f4f7f6;](https://cdn.corenexis.com/f/UUD77UoOuMy.jpg)
+            background-color: (https://cdn.corenexis.com/f/UUD77UoOuMy.jpg)
             margin: 0;
             padding: 0;
             display: flex;
