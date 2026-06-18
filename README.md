@@ -65,9 +65,6 @@
         </div>
     </div>
 
-</body>
-</html>
-
 <style>
     body {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -79,10 +76,11 @@
         height: 100vh;
 
         /* ব্যাকগ্রাউন্ড ছবি সেট করার কোড */
-        background-image: url[('https://images.unsplash.com/photo-1557683316-973673baf926')](https://cdn.corenexis.com/f/UUD77UoOuMy.jpg); 
-        background-size: cover;       
-        background-position: center;   
-        background-repeat: no-repeat;  
+        background-image: url('[https://images.unsplash.com/photo-1557683316-973673baf926](https://cdn.corenexis.com/f/UUD77UoOuMy.jpg
+)'); 
+        background-size: cover;       /* ছবিটিকে পুরো স্ক্রিন জুড়ে সেট করবে */
+        background-position: center;   /* ছবিটিকে স্ক্রিনের মাঝে রাখবে */
+        background-repeat: no-repeat;  /* ছবিটিকে বারবার রিপিট হতে দেবে না */
         background-attachment: fixed;  /* স্ক্রল করলেও ব্যাকগ্রাউন্ড নড়বে না */
     }
 </style>
