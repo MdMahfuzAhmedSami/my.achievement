@@ -84,3 +84,12 @@
         background-attachment: fixed;  /* স্ক্রল করলেও ব্যাকগ্রাউন্ড নড়বে না */
     }
 </style>
+.profile-card {
+    background-color: rgba(255, 255, 255, 0.9); /* ৯২% সাদা এবং কিছুটা স্বচ্ছ */
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+}
