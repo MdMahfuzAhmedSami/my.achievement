@@ -31,7 +31,7 @@
             font-size: 28px;
         }
         .designation {
-            color: #666;
+            color: #699;
             font-size: 16px;
             margin-bottom: 20px;
             font-weight: bold;
@@ -44,10 +44,10 @@
         .info-item {
             margin-bottom: 12px;
             font-size: 16px;
-            color: #333;
+            color: #399;
         }
         .info-item strong {
-            color: #ff477e;
+            color: #ff499e;
         }
     </style>
 </head>
