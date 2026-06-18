@@ -8,7 +8,7 @@
         /* এখানে ওয়েবসাইটের ডিজাইন বা CSS দেওয়া হয়েছে */
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f4f7f6;
+            background-color: 
             margin: 0;
             padding: 0;
             display: flex;
@@ -17,7 +17,7 @@
             height: 100vh;
         }
         .profile-card {
-            background-color: #ffffff;
+            background-color: 
             padding: 30px;
             border-radius: 15px;
             box-shadow: 0 4px 15px rgba(0,0,0,0.1);
